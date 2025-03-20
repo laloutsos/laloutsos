@@ -1,6 +1,6 @@
 # 👋 Welcome to My Profile!
 
-I am a student at the Department of Computer Engineering and Informatics, passionate about software development and constantly improving my skills. I am seeking internship opportunities to apply my knowledge and gain hands-on experience in real-world projects.
+I am a student at the Department of Computer Science and Engineering(University of Ioannina) passionate about software development and constantly improving my skills. I am seeking internship opportunities to apply my knowledge and gain hands-on experience in real-world projects.
 
 ## 🛠️ Technologies & Programming Languages
 
