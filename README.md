@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🌐 What I Work With
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
