@@ -9,7 +9,7 @@
 - 🤖 I'm interested in **robotics**, **App Development**, and **Algorithm Design and Analysis**  
 - 📱 I love solving problems with **Math** and **Algorithm Design**  
 - ⚙️ I enjoy working close to hardware using **Arduino** and **C++**  
-- 📫 How to reach me: *[laloutsosnikos@gmail.com]*
+- 📫 How to reach me: *laloutsosnikos@gmail.com*
 
 ---
 
