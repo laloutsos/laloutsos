@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi, I'm Nikos Laloutsos</h1>
 <h3 align="center">🎓 Undergraduate Computer Science Student | 🤖 Software & Robotics Enthusiast</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</p>
+
 ---
 
 ### 🧠 About Me
@@ -39,6 +43,15 @@
 
 ---
 
+### ⚡ Robotics & Programming in Action
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD0Mh3i8c32n7dC/giphy.gif" width="300" alt="Robotics"/>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Logic thinking"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -48,3 +61,12 @@
 
 ---
 
+### 🌟 Just for Fun
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59Y/giphy.gif" width="250" alt="Arduino Fun"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" alt="App Dev"/>
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="250" alt="Creative"/>
+</p>
+
+---
