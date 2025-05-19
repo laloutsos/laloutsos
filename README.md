@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stac
+### 🛠️ Tech Stack
 
 #### 🧑‍💻 Programming Languages
 <p>
