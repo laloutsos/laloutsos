@@ -2,7 +2,6 @@
 <h3 align="center">🎓 Undergraduate Computer Science Student | 🤖 Software & Robotics Enthusiast</h3>
 
 <hr />
----
 <h3 align="center">🧠 About Me</h3>
 
 - 🎓 I'm currently an undergraduate student in **Computer Science and Engineering**  
