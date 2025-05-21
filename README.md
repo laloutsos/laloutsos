@@ -58,15 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=laloutsos&theme=tokyonight&hide_border=true" width="420" height="200" alt="GitHub Streak"/>
 </div>
 
-<hr />
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laloutsos&theme=tokyo-night&hide_border=true" width="95%" />
-</div>
-
-<hr />
-
 <div align="center">
   <img src="https://github.com/laloutsos/laloutsos/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
