@@ -52,11 +52,10 @@
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/laloutsos/laloutsos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
