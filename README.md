@@ -10,7 +10,6 @@
 - ⚙️ I enjoy working close to hardware using **Arduino**, **C++**, and **Microcontrollers**  
 - 📫 You can reach me at: **laloutsosnikos@gmail.com**
 
----
 
 <hr />
 
