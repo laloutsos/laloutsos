@@ -5,7 +5,7 @@
 
 <h3 align="center">🧠 About Me</h3>
 
-<div align="center">
+<div>
 - 🎓 I'm currently an undergraduate student in **Computer Science and Engineering**  
 - 🤖 I'm passionate about **Robotics**, **App Development**, and **Algorithm Design**  
 - 🧩 I love solving problems using **Math** and **Logical Thinking**  
