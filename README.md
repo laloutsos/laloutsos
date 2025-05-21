@@ -54,7 +54,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/laloutsos/laloutsos/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
