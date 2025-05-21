@@ -42,8 +42,28 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laloutsos&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" width="420" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=laloutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" width="420" height="200" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laloutsos&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" width="420" height="200" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=laloutsos&theme=tokyonight&hide_border=true" width="420" height="200" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laloutsos/laloutsos/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laloutsos&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 
