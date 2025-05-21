@@ -52,14 +52,14 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
+
 
 ![Snake animation](https://github.com/laloutsos/laloutsos/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
 
-### 📈 Activity Graph
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laloutsos&theme=tokyo-night&hide_border=true" width="95%" />
