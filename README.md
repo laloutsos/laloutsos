@@ -54,7 +54,8 @@
 
 
 
-![Snake animation](https://github.com/laloutsos/laloutsos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/laloutsos/laloutsos/blob/output/dist/github-contribution-grid-snake-dark.svg)
+
 
 
 ---
