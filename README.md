@@ -68,5 +68,6 @@
 <hr />
 
 <div align="center">
-![Snake animation](https://github.com/laloutsos/laloutsos/raw/output/github-contribution-grid-snake-dark.svg)
-<div>
+  <img src="https://github.com/laloutsos/laloutsos/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
