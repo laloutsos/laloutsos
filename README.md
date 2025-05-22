@@ -54,9 +54,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laloutsos&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" width="420" height="200" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=laloutsos&theme=tokyonight&hide_border=true" width="420" height="200" alt="GitHub Streak"/>
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=laloutsos&theme=tokyonight&hide_border=true&v=1" />
+
 
 <div align="center">
   <img src="https://github.com/laloutsos/laloutsos/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
