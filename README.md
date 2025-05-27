@@ -10,7 +10,7 @@
 - ⚙️ I enjoy working close to hardware using **Arduino**, **C++**, and **Microcontrollers**  
 - 📫 You can reach me at: **laloutsosnikos@gmail.com**
 - My organization: <a href="https://github.com/uoi-coding-lab">
-  <img src="./uoi-coding-lab.png" alt="uoi-coding-lab" width="50"/>
+  <img src="./uoi-coding-lab.png" alt="uoi-coding-lab" width="70"/>
 </a>
 
 
