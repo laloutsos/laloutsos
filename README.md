@@ -9,7 +9,7 @@
 - 🧩 I love solving problems using **Math** and **Logical Thinking**  
 - ⚙️ I enjoy working close to hardware using **Arduino**, **C++**, and **Microcontrollers**  
 - 📫 You can reach me at: **laloutsosnikos@gmail.com**
-- My organization:  [<img src="./uoi-coding-lab.png" width="50">](https://github.com/uoi-coding-lab)
+- My organization:  **[<img src="./uoi-coding-lab.png" width="50">](https://github.com/uoi-coding-lab)**
 
 
 
