@@ -12,7 +12,7 @@
 <h4 align="center">My organization:</h4>
 <div align="center">
   <a href="https://github.com/uoi-coding-lab" target="_blank" rel="noopener noreferrer">
-    <img src="./uoi-coding-lab.png" width="100" alt="uoi coding lab"/>
+    <img src="./uoi-coding-lab.png" width="120" alt="uoi coding lab"/>
   </a>
 </div>
 
