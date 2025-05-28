@@ -4,16 +4,25 @@
 <hr />
 <h3 align="center">🧠 About Me</h3>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">🎓</td>
+    <td>I'm currently an undergraduate student in <strong>Computer Science and Engineering</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🤖</td>
+    <td>I'm passionate about <strong>Robotics</strong>, <strong>App Development</strong>, and <strong>Algorithm Design</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🧩</td>
+    <td>I love solving problems using <strong>Math</strong> and <strong>Logical Thinking</strong></td>
+  </tr>
+  <tr>
+    <td align="center">📫</td>
+    <td>You can reach me at: <strong>laloutsosnikos@gmail.com</strong></td>
+  </tr>
+</table>
 
-<pre>
-🎓  I'm currently an undergraduate student in Computer Science and Engineering
-🤖  I'm passionate about Robotics, App Development, and Algorithm Design
-🧩  I love solving problems using Math and Logical Thinking
-📫  You can reach me at: laloutsosnikos@gmail.com
-</pre>
-
-</div>
 
 
 
