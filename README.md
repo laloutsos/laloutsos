@@ -4,7 +4,7 @@
 <hr />
 <h3 align="center">🧠 About Me</h3>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">🎓</td>
     <td>I'm currently an undergraduate student in <strong>Computer Science and Engineering</strong></td>
@@ -22,6 +22,7 @@
     <td>You can reach me at: <strong>laloutsosnikos@gmail.com</strong></td>
   </tr>
 </table>
+
 
 
 
