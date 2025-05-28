@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nikos Laloutsos</h1>
-<h3 align="center">🎓 Undergraduate Computer Science Student | 🤖 Software & Robotics Enthusiast</h3
+<h3 align="center">🎓 Undergraduate Computer Science Student | 🤖 Software & Robotics Enthusiast</h3>
 
 <hr />
 <h3 align="center">🧠 About Me</h3>
