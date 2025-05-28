@@ -70,8 +70,9 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=laloutsos&theme=tokyonight&hide_border=true" width="420" height="200" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=laloutsos&theme=tokyonight&hide_border=true" width="420" height="200" alt="GitHub Streak"/>
 </div>
+
 
 <div align="center">
   <img src="https://github.com/laloutsos/laloutsos/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
