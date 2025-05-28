@@ -1,13 +1,12 @@
 <h1 align="center">👋 Hi, I'm Nikos Laloutsos</h1>
-<h3 align="center">🎓 Undergraduate Computer Science Student | 🤖 Software & Robotics Enthusiast</h3>
+<h3 align="center">🎓 Undergraduate Computer Science and Engineering Student | University of Ioannina</h3>
 
 <hr />
 <h3 align="center">🧠 About Me</h3>
 
 - 🎓 I'm currently an undergraduate student in **Computer Science and Engineering**  
 - 🤖 I'm passionate about **Robotics**, **App Development**, and **Algorithm Design**  
-- 🧩 I love solving problems using **Math** and **Logical Thinking**  
-- ⚙️ I enjoy working close to hardware using **Arduino**, **C++**, and **Microcontrollers**  
+- 🧩 I love solving problems using **Math** and **Logical Thinking**    
 - 📫 You can reach me at: **laloutsosnikos@gmail.com**
 <h4 align="center">🏢 My organization:</h4>
 <div align="center">
