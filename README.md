@@ -8,7 +8,7 @@
 - 🤖 I'm passionate about **Robotics**, **App Development**, and **Algorithm Design**  
 - 🧩 I love solving problems using **Math** and **Logical Thinking**    
 - 📫 You can reach me at: **laloutsosnikos@gmail.com**
-<h4 align="center">🏢 My organization:</h4>
+<h4 align="center">🏢 Discover my collaborative projects through my organization below:</h4>
 <div align="center">
   <a href="https://github.com/uoi-coding-lab" target="_blank" rel="noopener noreferrer">
     <img src="./uoi-coding-lab.png" width="120" alt="uoi coding lab"/>
