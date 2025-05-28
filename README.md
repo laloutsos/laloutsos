@@ -64,7 +64,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=laloutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" width="420" height="200" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laloutsos&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" width="420" height="200" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laloutsos&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1&include_forks=true" width="420" height="200" alt="Top Languages"/>
 </div>
 
 <div align="center">
