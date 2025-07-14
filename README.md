@@ -9,6 +9,7 @@
 - 🧩 I love solving problems using **Math** and **Logical Thinking**    
 - 📫 You can reach me at: **laloutsosnikos@gmail.com**
 - 📲 You can take a look at my Personal Webpage by clicking [here](https://laloutsos.infinityfreeapp.com/index.php) .
+- ✍🏼I am currently working at Lioncode as a Web Developer, completing my internship.
 
 
 <h4 align="center">🏢 Discover my collaborative projects through my organization below:</h4>
@@ -45,6 +46,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="35"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg" alt="Unix" width="35"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="35"/>
   </p>
 </div>
 
@@ -58,6 +61,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="35"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="35"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="35"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="35"/>
   </p>
 </div>
 
