@@ -9,7 +9,7 @@
 - 🧩 I love solving problems using **Math** and **Logical Thinking**    
 - 📫 You can reach me at: **laloutsosnikos@gmail.com**
 - 📲 You can take a look at my Personal Webpage by clicking [here](https://laloutsos.infinityfreeapp.com/index.php) .
-- ✍🏼I am currently working at Lioncode as a Web Developer, completing my internship.
+- ✍🏼I am currently working at [Lioncode](https://lioncode.gr/) as a Web Developer, completing my internship.
 
 
 <h4 align="center">🏢 Discover my collaborative projects through my organization below:</h4>
