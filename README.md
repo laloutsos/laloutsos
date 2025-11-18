@@ -5,7 +5,7 @@
 <h3 align="center">🧠 About Me</h3>
 
 - 🎓 I'm currently an undergraduate student in **Computer Science and Engineering**  
-- 🤖 I'm passionate about **Robotics**, **App Development**, and **Algorithm Design**  
+- 🤖 I'm keen on **Robotics**, **Machine Learning**, and **Algorithm Design**  
 - 🧩 I love solving problems using **Math** and **Logical Thinking**    
 - 📫 You can reach me at: **laloutsosnikos@gmail.com**
 - 📲 You can take a look at my Personal Webpage by clicking [here](https://laloutsos.infinityfreeapp.com/index.php) .
