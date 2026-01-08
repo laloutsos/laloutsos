@@ -69,13 +69,18 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
+  <!-- General GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=laloutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" width="420" height="200" alt="GitHub Stats"/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laloutsos&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1&include_forks=true" width="420" height="200" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=laloutsos&theme=tokyonight&hide_border=true" width="420" height="200" alt="GitHub Streak"/>
+  <!-- Contributions Streak (αξιόπιστο) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=laloutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true&include_all_commits=true&show_streak=true" width="420" height="200" alt="GitHub Streak"/>
 </div>
+
 
 
 
