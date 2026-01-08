@@ -78,7 +78,8 @@
 
 <div align="center">
   <!-- Contributions Streak (αξιόπιστο) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=laloutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show_streak=true" width="420" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=laloutsos&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak"/>
+
 </div>
 
 
