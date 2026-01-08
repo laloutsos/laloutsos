@@ -70,17 +70,17 @@
 
 <div align="center">
   <!-- General GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=laloutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_bust=1" width="420" height="200" alt="GitHub Stats"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=laloutsos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="420" alt="GitHub Stats"/>
+
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laloutsos&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1&include_forks=true" width="420" height="200" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <!-- Contributions Streak (αξιόπιστο) -->
-<img src="https://streak-stats.demolab.com?user=laloutsos&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak"/>
-
+  <!-- Contributions Streak (demolab) -->
+  <img src="https://streak-stats.demolab.com?user=laloutsos&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak"/>
 </div>
+
 
 
 
