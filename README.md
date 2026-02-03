@@ -10,25 +10,6 @@
 - 📫 You can reach me at: **laloutsosnikos@gmail.com**
 
 
-
-<h4 align="center">🏢 Discover my collaborative projects through my organization below:</h4>
-<div align="center">
-  <a href="https://github.com/uoi-coding-lab" target="_blank" rel="noopener noreferrer">
-    <img src="./uoi-coding-lab.png" width="120" alt="uoi coding lab"/>
-  </a>
-</div>
-
-
-
-
-
-
-
-
-
-
-<hr />
-
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <h4 align="center">🧑‍💻 Programming Languages</h4>
