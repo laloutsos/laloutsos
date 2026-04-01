@@ -1,18 +1,18 @@
-<h1 align="center">👋 Hi, I'm Nikos Laloutsos</h1>
-<h3 align="center">🎓 Undergraduate Computer Science and Engineering Student | University of Ioannina</h3>
+<h1 align="center">Hi, I'm Nikos Laloutsos</h1>
+<h3 align="center">Undergraduate Computer Science and Engineering Student | University of Ioannina</h3>
 
 <hr />
-<h3 align="center">🧠 About Me</h3>
+<h3 align="center">About Me</h3>
 
-- 🎓 I'm currently an undergraduate student in **Computer Science and Engineering**  
-- 🤖 I'm keen on **Robotics**, **Machine Learning**, and **Algorithm Design**  
-- 🧩 I love solving problems using **Math** and **Logical Thinking**    
-- 📫 You can reach me at: **laloutsosnikos@gmail.com**
+- I'm currently an undergraduate student in **Computer Science and Engineering**  
+- I'm keen on **Robotics**, **Machine Learning**, and **Algorithm Design**  
+- I love solving problems using **Math** and **Logical Thinking**    
+- You can reach me at: **laloutsosnikos@gmail.com**
 
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
-<h4 align="center">🧑‍💻 Programming Languages</h4>
+<h4 align="center">Programming Languages</h4>
 <div align="center">
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35"/>
@@ -28,10 +28,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="35"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="35"/>
+    <img src="https://skillicons.dev/icons?i=ros" alt="ROS 2" width="35"/>
+    <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" alt="YOLO" width="70"/>
   </p>
 </div>
 
-<h4 align="center">🧰 Tools & Platforms</h4>
+<h4 align="center">Tools & Platforms</h4>
 <div align="center">
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="35"/>
@@ -47,7 +49,7 @@
 
 <hr />
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
   <!-- General GitHub Stats -->
